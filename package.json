@@ -1,0 +1,12 @@
+{
+  "name": "glab318.1.1",
+  "version": "1.0.0",
+  "description": "A sample project for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
